@@ -1,4 +1,4 @@
-# Welcome to Omneer
+!([URL_to_image](https://humantechnopole.it/wp-content/uploads/2022/04/brainomics-1536x986.jpg))
 
 Omneer is a leading-edge biotech startup specializing in personalized medicine, data analysis, and prediction from multiomics data. Our focus is on using this multiomics data for advanced prediction of neurodegenerative diseases and the creation of personalized treatments, or "digital twins". 
 
