@@ -17,7 +17,7 @@
   </h3>
 </html>
 
-Omneer is a leading-edge biotech startup specializing in personalized medicine, data analysis, and prediction from multiomics data. Our focus is on using this multiomics data for advanced prediction of neurodegenerative diseases and the creation of personalized treatments, or "digital twins". 
+Omneer is building the future of personalized medicine tools and analytics for neuroscience from multiomics data. Our focus is on using this multiomics data for advanced prediction of neurodegenerative diseases and the creation of personalized treatments, or "digital twins". 
 
 As pioneers in this field, we are revolutionizing the way neurodegenerative diseases are diagnosed and treated. In the digital realm of neuroscience, we are creating a data infrastructure that will serve as an invaluable tool for physicians and researchers alike.
 
@@ -42,13 +42,13 @@ Omneer Verified is a curated set of bioinformatics workflows developed using our
 - How our platform fits into a broader BioDevelopment Framework, [link here]
 - Advanced Analytics Platform source code, [link here]
 
-## Omneer's Manifesto
+## Omneer's Mission
 
 The convergence of sophisticated neuroimaging, big data analytics, and machine learning is catapulting the domain of neurodegenerative disease diagnosis and personalized treatment into the digital realm. 
 
 Our mission at Omneer is to create and propagate the data infrastructure necessary for this neurodiagnostic revolution. We aim to empower physicians and researchers with the tools to predict, diagnose, and eventually halt neurodegenerative diseases in their tracks.
 
-For a closer look at our vision, see the full manifesto [here](./MANIFESTO.md).
+For a closer look at our vision, see the full manifesto [here](./MISSION.md).
 
 ## Getting Started
 
