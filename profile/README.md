@@ -8,7 +8,7 @@
   <span> · </span>
   <a href="">Slack</a>
   <span> · </span>
-  <a href="">Medium</a>
+  <a href="https://omneer.substack.com/">Substack</a>
   </h3>
 </html>
 
