@@ -6,7 +6,7 @@
   <span> · </span>
   <a href="https://omneer.typedream.app/">Documentation</a>
   <span> · </span>
-  <a href="">Slack</a>
+  <a href="">Discord</a>
   <span> · </span>
   <a href="https://omneer.substack.com/">Substack</a>
   </h3>
