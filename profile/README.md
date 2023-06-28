@@ -2,18 +2,18 @@
 
 <html>
   <h3 align="center">
-  <a href="https://latch.bio/">Website</a>
+  <a href="https://omneer.typedream.app">Website</a>
   <span> · </span>
-  <a href="https://docs.latch.bio/">Documentation</a>
+  <a href="https://omneer.typedream.app/">Documentation</a>
   <span> · </span>
-  <a href="https://join.slack.com/t/latchbiosdk/shared_invite/zt-193ibmedi-WB6mBu2GJ2WejUHhxMOuwg">Slack</a>
+  <a href="">Slack</a>
   <span> · </span>
-  <a href="https://latchbio.substack.com/">Medium</a>
+  <a href="">Medium</a>
   </h3>
 </html>
 
 <html>
-  <h3 align="center">The LatchBio SDK</a>
+  <h3 align="center">Omneer SDK</a>
   </h3>
 </html>
 
