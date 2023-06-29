@@ -23,18 +23,17 @@ As pioneers in this field, we are revolutionizing the way neurodegenerative dise
 
 ## Omneer's Advanced Analytics Platform
 
-Traditional bioinformatics frameworks often fall short when it comes to user-friendliness, up-to-date language use, and essential feature support. Omneer's Advanced Analytics Platform fills this gap with a strong emphasis on developer ergonomics and mission-critical features which include:
+Current practices in neurodegenerative disorders diagnosis, such as Parkinson's and Alzheimer's, rely heavily on qualitative evaluations. Unfortunately, this approach often results in significant diagnostic delays and inaccuracies. The need for a more precise, proactive, and personalized system is crying out.
 
-- No-code interface generation and hosting
-- Strong typing of parameters
-- Serverless cloud deployments
-- Baked-in versioning + containerization
-- Auditable data + execution lineage
-- First-class Python support (with integration for arbitrary languages)
+Omneer's advanced analytics platform bridges this gap. By leveraging multiomics data, we are revolutionizing the way neurodegenerative diseases are predicted, diagnosed, and treated. Our mission-critical features include:
 
-## Omneer Verified
+- **Early Prediction:** By harnessing the power of big data, machine learning, and sophisticated neuroimaging, Omneer facilitates the early detection of neurodegenerative diseases. Our algorithms are designed to identify patterns at the earliest stages of diseases, even before the onset of noticeable symptoms.
 
-Omneer Verified is a curated set of bioinformatics workflows developed using our Advanced Analytics Platform. Feel free to explore the source code and documentation in our repository.
+- **Disease Progression:** With our continuous and automated data analysis, we track the progression of the disease meticulously. This offers healthcare providers a better understanding of the disease's course and the effectiveness of chosen treatment strategies.
+
+- **Personalized Treatment:** Omneer is pioneering the creation of "digital twins", allowing for the simulation of multiple treatment scenarios to identify the most effective, personalized therapeutic approach. This revolutionary technique eliminates the trial-and-error methods commonly used in managing neurodegenerative disorders.
+
+- **Qualitative to Quantitative:** We replace qualitative assessments with quantitative data analysis, reducing diagnostic delay and increasing the accuracy of diagnoses. Our auditable data and execution lineage provide reliable and reproducible results.
 
 ## Further Reading
 
@@ -48,7 +47,7 @@ The convergence of sophisticated neuroimaging, big data analytics, and machine l
 
 Our mission at Omneer is to create and propagate the data infrastructure necessary for this neurodiagnostic revolution. We aim to empower physicians and researchers with the tools to predict, diagnose, and eventually halt neurodegenerative diseases in their tracks.
 
-For a closer look at our vision, see the full manifesto [here](./MISSION.md).
+For a closer look at our vision, see the full mission [here](./MISSION.md).
 
 ## Getting Started
 
