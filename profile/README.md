@@ -19,7 +19,7 @@
 
 Omneer is building the future of personalized medicine tools and analytics for neuroscience from multiomics data. Our focus is on using this multiomics data for advanced prediction of neurodegenerative diseases and the creation of personalized treatments, or "digital twins". 
 
-As pioneers in this field, we are revolutionizing the way neurodegenerative diseases are diagnosed and treated. In the digital realm of neuroscience, we are creating a data infrastructure that will serve as an invaluable tool for physicians and researchers alike.
+We want to revolutionize the way neurodegenerative diseases are diagnosed and treated. In the digital realm of neuroscience, we are creating a data infrastructure that will serve as an invaluable tool for physicians and researchers alike.
 
 ## Omneer's Advanced Analytics Platform
 
