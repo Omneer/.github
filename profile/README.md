@@ -4,7 +4,7 @@
   <h3 align="center">
   <a href="https://omneer.typedream.app">Website</a>
   <span> · </span>
-  <a href="https://omneer.typedream.app/">Documentation</a>
+  <a href="https://docs.omneer.xyz/">Documentation</a>
   <span> · </span>
   <a href="">Discord</a>
   <span> · </span>
