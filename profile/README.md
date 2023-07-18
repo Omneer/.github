@@ -1,4 +1,4 @@
-![KPFellows](https://viterbicareers.usc.edu/wp-content/uploads/2018/09/kleiner-perkins-fellows-2018.png)
+![Neuroimaging](https://viterbicareers.usc.edu/wp-content/uploads/2018/09/kleiner-perkins-fellows-2018.png)](https://humantechnopole.it/wp-content/uploads/2022/04/brainomics-1536x986.jpg)
 
 <html>
   <h3 align="center">
