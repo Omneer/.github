@@ -6,7 +6,7 @@
   <span> · </span>
   <a href="https://docs.omneer.xyz/">Documentation</a>
   <span> · </span>
-  <a href="">Discord</a>
+  <a href="https://www.loom.com/share/d07b7eca86044b7eb5c159c5e01d0d79?sid=15727013-298a-4353-9893-4c3df7e2d7d8">Demo</a>
   <span> · </span>
   <a href="https://omneer.substack.com/">Substack</a>
   </h3>
